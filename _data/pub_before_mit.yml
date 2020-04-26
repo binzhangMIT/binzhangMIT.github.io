@@ -1,0 +1,119 @@
+- title: Genomic energy landscapes
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Peter G Wolynes
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0006349516307743
+    display: Biophys J, 112, 427 (2017)
+  highlight: 0
+
+- title: Transferable model for chromosome architecture
+  image: dummy.png
+  description: ""
+  authors:
+    Michele Di Pierro, Bin Zhang, Erez Lieberman Aiden, Peter G Wolynes, José N Onuchic
+  link:
+    url: https://www.pnas.org/content/113/43/12168.short
+    display: PNAS, 113, 12168 (2016)
+  highlight: 0
+
+- title: Molecular mechanism of facilitated dissociation of Fis protein from DNA
+  image: dummy.png
+  description: ""
+  authors:
+    Min-Yeh Tsai, Bin Zhang, Weihua Zheng, Peter G Wolynes
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jacs.6b08416
+    display: JACS, 138, 13497 (2016)
+  highlight: 0
+
+- title: A link between integral membrane protein expression and simulated integration efficiency
+  image: dummy.png
+  description: ""
+  authors:
+    Stephen S Marshall, Michiel JM Niesen, Axel Müller, Katrin Tiemann, Shyam M Saladi, Rachel P Galimidi, Bin Zhang, William M Clemons Jr, Thomas F Miller III
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2211124716309603
+    display: Cell Rep, 16, 2169 (2016)
+  highlight: 0
+
+- title: Exploring the free energy landscape of nucleosomes
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Weihua Zheng, Garegin A Papoian, Peter G Wolynes
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jacs.6b02893
+    display: JACS, 138, 8126 (2016)
+  highlight: 0
+
+- title: Shape Transitions and Chiral Symmetry Breaking in the Energy Landscape of the Mitotic Chromosome
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Peter G Wolynes
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.248101
+    display: PRL, 116, 248101 (2016)
+  highlight: 0
+
+- title: Regulation of multispanning membrane protein topology via post-translational annealing
+  image: dummy.png
+  description: ""
+  authors:
+    Reid C Van Lehn, Bin Zhang, Thomas F Miller
+  link:
+    url: https://elifesciences.org/articles/08697
+    display: Elife, 4, (2015)
+  highlight: 0
+
+- title: Topology, structures, and energy landscapes of human chromosomes
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Peter G Wolynes
+  link:
+    url: https://www.pnas.org/content/112/19/6062.short
+    display: PNAS, 112, 6062, (2015)
+  highlight: 0
+
+- title: Stem cell differentiation as a many-body problem
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Peter G Wolynes
+  link:
+    url: https://www.pnas.org/content/111/28/10185.short
+    display: PNAS, 111, 10185, (2014)
+  highlight: 0
+
+- title: Long-Timescale Dynamics and Regulation of Sec-Facilitated Protein Translocation
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Thomas F Miller
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S221112471200280X
+    display: Cell Rep, 2, 924, (2012)
+  highlight: 0
+
+- title: Direct simulation of early-stage Sec-facilitated protein translocation
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Thomas F Miller
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/ja3034526
+    display: JACS, 134, 13700 (2012)
+  highlight: 0
+
+- title: Hydrophobically stabilized open state for the lateral gate of the Sec translocon
+  image: dummy.png
+  description: ""
+  authors:
+    Bin Zhang, Thomas F Miller
+  link:
+    url: https://www.pnas.org/content/107/12/5399.short
+    display: PNAS, 107, 5399 (2010)
+  highlight: 0

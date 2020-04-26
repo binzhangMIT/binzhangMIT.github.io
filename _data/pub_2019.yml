@@ -1,0 +1,81 @@
+- title: "Theory of active chromatin remodeling"
+  image: effT.jpg
+  description: Using a perturbation theory, we show that the non-equilibrium impact of remodeling enzymes on nucleosome positioning can be well approximated by eective equilibrium models with rescaled temperatures and interactions. Numerical simulations support the accuracy of the theory in predicting both kinetic and steady-state quantities, including the eective temperature and the radial distribution function. 
+  authors:
+    Zhongling Jiang, Bin Zhang
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.208102
+    display: PRL, 123, 208102 (2019)
+  highlight: 1
+  news2:
+
+- title: "Maximum Entropy Optimized Force Field for Intrinsically Disordered Proteins"
+  image: moff.jpg
+  description:
+      Here, we present a generic algorithm to improve the accuracy of coarse-grained IDP models using a diverse set of experimental measurements. We successfully applied the algorithm to derive a transferable force field, which we term as MOFF, for de novo prediction of IDP structures.
+  authors:
+    Andrew P Latham, Bin Zhang
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00932
+    display: JCTC, 16, 773 (2019)
+  highlight: 1
+
+- title: "Predicting three-dimensional genome organization with chromatin states"
+  image: dragon.jpg
+  description: We introduce a computational model to simulate chromatin structure and dynamics. Starting from one-dimensional genomics and epigenomics data that are available for hundreds of cell types, this model enables de novo prediction of chromatin structures at five-kilo-base resolution. 
+  authors:
+    Yifeng Qi, Bin Zhang
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007024
+    display: PLoS Comp Bio, 15, e1007024 (2019)
+  highlight: 1
+
+- title: "Path-accelerated stochastic molecular dynamics: Parallel-in-time integration using path integrals"
+  image: dummy.png
+  description: ""
+  authors:
+    Jorge L Rosa-Raíces, Bin Zhang, Thomas F Miller III
+  link:
+    url: https://aip.scitation.org/doi/abs/10.1063/1.5125455
+    display: JCP, 151, 164120 (2019)
+  highlight: 0
+
+- title: "Learning the formation mechanism of domain-Level chromatin states with epigenomics data"
+  image: dummy.png
+  description: ""
+  authors:
+    Wen Jun Xie, Bin Zhang
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0006349519303066
+    display: Biophys J, 116, 2047 (2019)
+  highlight: 0
+
+- title: "Critical role of histone tail entropy in nucleosome unwinding"
+  image: dummy.png
+  description: ""
+  authors:
+    Thomas Parsons, Bin Zhang
+  link:
+    url: https://aip.scitation.org/doi/abs/10.1063/1.5085663
+    display: JCP, 150, 185103 (2019)
+  highlight: 0
+
+- title: "Learning genomic energy landscapes from experiments"
+  image: dummy.png
+  description: ""
+  authors:
+    MICHELE Di Pierro, RYAN R Cheng, B Zhang, JOSÉ N Onuchic, PETER G Wolynes
+  link:
+    url: http://books.google.com/books?hl=en&lr=&id=DzqDDwAAQBAJ&oi=fnd&pg=PA305&dq=info:OrqNx8nlszoJ:scholar.google.com&ots=dWYQD_g5Qz&sig=LK0laDZ6YaLcOQFXX-ub3QYixNk
+    display: Book Chapter, CRC Press, 305 (2019)
+  highlight: 0
+
+- title: "Improving Coarse-Grained Protein Force Fields with Small-Angle X-ray Scattering Data"
+  image: dummy.png
+  description: ""
+  authors:
+    Andrew P Latham, Bin Zhang
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b10336
+    display: JPCB, 123, 1026 (2019)
+  highlight: 0

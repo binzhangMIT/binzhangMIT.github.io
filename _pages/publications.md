@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Publications"
+title: "Zhang Group - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Zhang Group -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: publications/
 ---
 
 
@@ -11,10 +11,10 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=jyDBI2EAAAAJ&hl=en))
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.pub_2019 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -53,11 +53,38 @@ permalink: /publications/
 
 
 ## Full List
+\* indicates co-corresponding authors.
 
-{% for publi in site.data.publist %}
+### Submitted 
+{% for publi in site.data.pub_submitted %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
+### 2020
+{% for publi in site.data.pub_2020 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
+### 2019
+{% for publi in site.data.pub_2019 %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+
+### Before MIT 
+{% for publi in site.data.pub_before_mit %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}

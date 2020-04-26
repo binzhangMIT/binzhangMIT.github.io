@@ -1,0 +1,90 @@
+- title: "On the role of transcription in positioning nucleosomes"
+  image: dummy.png
+  description: ""
+  authors:
+    Zhongling Jiang, Bin Zhang
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.04.07.029892v1.abstract
+    display: bioRxiv
+  highlight: 0
+
+- title: "Data-driven polymer model for mechanistic exploration of diploid genome organization"
+  image: dummy.png
+  description: ""
+  authors:
+    Yifeng Qi, Alejandro Reyes, Sarah E Johnstone, Martin J Aryee, Bradley E Bernstein, Bin Zhang
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.02.27.968735v1.abstract
+    display: bioRxiv
+  highlight: 0
+
+- title: "Quantifying Epigenetic Stability with Minimum Action Paths"
+  image: dummy.png
+  description: ""
+  authors:
+    Amogh Sood, Bin Zhang
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2020.02.25.964726v1.abstract
+    display: bioRxiv
+  highlight: 0
+
+- title: "Characterizing chromatin folding coordinate and landscape with deep learning"
+  image: dummy.png
+  description: ""
+  authors:
+    Wen Jun Xie, Yifeng Qi, Bin Zhang
+  link:
+    url: https://www.biorxiv.org/content/10.1101/824417v1.abstract
+    display: bioRxiv
+  highlight: 0
+
+- title: "PRC2 bridges non-adjacent nucleosomes to establish heterochromatin"
+  image: dummy.png
+  description: ""
+  authors:
+    Rachel Leicher, J Ge Eva, Xingcheng Lin, Matthew J Reynolds, Thomas Walz, Bin Zhang\*, Tom W Muir, Shixin Liu\*
+  link:
+    url: https://www.biorxiv.org/content/10.1101/795260v1.full-text
+    display: bioRxiv
+  highlight: 0
+
+- title: "Super-resolution imaging reveals 3D structure and organizing mechanism of accessible chromatin"
+  image: dummy.png
+  description: ""
+  authors:
+    Liangqi Xie, Peng Dong, Yifeng Qi, Margherita De Marzio, Xingqi Chen, Sambashiva Banala, Wesley R Legant, Brian P English, Anders S Hansen, Anton Schulmann, Luke D Lavis, Eric Betzig, Rafael Casellas, Howard Y Chang, Bin Zhang\*, Robert Tjian\*, Zhe Liu\*
+  link:
+    url: https://www.biorxiv.org/content/10.1101/678649v1.abstract
+    display: bioRxiv
+  highlight: 0
+
+- title: "Intracellular compaction induced by extracellular ligand-binding in epidermal growth factor receptor"
+  image: dummy.png
+  description: ""
+  authors:
+    Shwetha Srinivasan, Raju Regmi, Xingcheng Lin, Steven D. Quinn, Wei He, Kermit L. Carraway, III, Matthew A. Coleman, Bin Zhang\*, Gabriela S. Schlau-Cohen\*
+  link:
+    url: ""
+    display: ""
+  highlight: 0
+
+- title: "Structural and Dynamic Features of N-glycosylated Human RNase1"
+  image: dummy.png
+  description: ""
+  authors:
+    Henry Kilgore, Andrew Latham, Valerie Ressler, Bin Zhang\*, Ronald T. Raines\*
+  link:
+    url: ""
+    display: ""
+  highlight: 0
+
+- title: "A survey of genome topology in colorectal cancer reveals large-scale
+compartmental changes that restrain malignant progression"
+  image: dummy.png
+  description: ""
+  authors:
+    Sarah E. Johnstone, Alejandro Reyes, Yifeng Qi, Esmat Hegazi, Karin Pelka, Jonathan Chen, Luli Zou, Yotam Drier, Vivian Hecht, Noam Shoresh, Caleb Lareau, Sowmya Iyer, Nir Hacohen, Rafael Irizarry, Bin Zhang, Martin J. Aryee, Bradley E. Bernstein
+  link:
+    url: ""
+    display: ""
+  highlight: 0
